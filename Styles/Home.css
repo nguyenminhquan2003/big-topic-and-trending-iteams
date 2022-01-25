@@ -1,0 +1,46 @@
+html {
+    font-family: Targetica, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#main{
+    height: 452px;
+    width: 100%;
+}
+.container{
+    height: 446px;
+    width: 277px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+    background-color: #65b4df
+;
+}
+
+.card_big_topic{
+    padding-left: 10px;
+}
+
+.big_topic{
+    background-image: url("../img/TOP-15-trang-web-noi-that-nuoc-ngoai-noi-tieng-tren-the-gioi-nam-2020.jpg");
+    background-size: 100% 452px;
+    height: 446px;
+    width: 78%;
+    margin-top: 5px;
+    float: left;
+}
+
+
